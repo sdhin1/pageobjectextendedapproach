@@ -1,0 +1,4 @@
+INFO    2019-01-18 11:59:37,539 [main] com.saudhing.zoho.testcases.BaseTest  - Configuration file loaded !!!
+INFO    2019-01-18 11:59:43,746 [TestNG-PoolService-0] com.saudhing.zoho.testcases.BaseTest  - Chrome browser launched !!!
+INFO    2019-01-18 11:59:43,948 [TestNG-PoolService-0] com.saudhing.zoho.testcases.BaseTest  - Chrome browser launched !!!
+INFO    2019-01-18 11:59:55,463 [TestNG-PoolService-1] com.saudhing.zoho.testcases.BaseTest  - Firefox browser launched !!!
